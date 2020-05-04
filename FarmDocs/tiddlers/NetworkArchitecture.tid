@@ -1,0 +1,10 @@
+created: 20200504170233901
+modified: 20200504184921598
+tags: 
+title: NetworkArchitecture
+
+In keeping with [[the principle of Local-First|https://www.inkandswitch.com/local-first.html]], we are developing a network architecture that enables "the best of both worlds" : anywhere/anytime access via hosting in the cloud (at vdl.farmos.net, in our case), but data is stored locally in the first place..  Developer Don Blair [[explains it well in this video|https://www.youtube.com/watch?v=Q7oVNl8lRqY&t=785s]], if you've got 20 minutes to watch.
+
+NB: There is a [[crowdfunding campaign |https://opencollective.com/edgecollective/contribute/foss-local-first-lora-wifi-sensor-gateway-software-version-0-1-13884]] underway in support of this fully open-source project, so if care about data/tech sovereignty, you may do well to contribute.  Every little bit helps!
+
+[img[LocalFirst,DonExplains.jpeg]]
