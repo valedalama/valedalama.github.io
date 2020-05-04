@@ -1,2 +1,2 @@
 # valedalama.github.io
-To be replaced with a website shortly; stay tuned!
+To be replaced with a website -a TiddlyWiki- shortly; stay tuned!
