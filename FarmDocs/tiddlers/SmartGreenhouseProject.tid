@@ -1,7 +1,18 @@
 created: 20200504185037069
-modified: 20200505145246049
+modified: 20200512163530680
 tags: Projects
 title: SmartGreenhouseProject
+
+DEV ROADMAP:
+
+* Next Steps:
+** Order parts for the RemoteNode
+*** Electronics: Adafruit Feather board and BME280 sensor module
+*** Circuitry: Breadboard and Wiring
+*** Power: USB cable and adapter
+*** Weatherproofing: [[JunctionBox|https://www.adafruit.com/product/762]] and [[Cable Glands|https://www.adafruit.com/product/762]]
+
+
 
 LINKS:
 
