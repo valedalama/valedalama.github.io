@@ -1,5 +1,5 @@
 created: 20200504185037069
-modified: 20200512163530680
+modified: 20200525051238940
 tags: Projects
 title: SmartGreenhouseProject
 
@@ -19,5 +19,6 @@ LINKS:
 * GreenhouseDesign : for more insight, see this photo gallery that shows some [[issues with the polytunnel as it stands|https://imgur.com/a/RJJDE5p]]. 
 * NetworkArchitecture
 * SMARTech
+* Don's video on [[Creating a New Sensor Feed|https://edgecollective.io/posts/farmos_sensor_feed/]]
 
 If you want to dive deeper, there's [[a Github repo for this project|https://github.com/valedalama/smart-greenhouse]], including [[a wiki|https://github.com/valedalama/smart-greenhouse/wiki]], but i will try to pull out what's relevant and try to make it more accessible here. 
