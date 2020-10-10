@@ -1,0 +1,5 @@
+created: 20201010153140121
+modified: 20201010153142723
+title: GoogleEarthTimelapse
+
+<iframe width="1080" height="600" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=37.15137,-8.62176,11.517,latLng&t=0.1&ps=50&bt=19840101&et=20181231&startDwell=0&endDwell=0" frameborder="0" allowfullscreen></iframe>
