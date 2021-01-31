@@ -2,7 +2,7 @@ The Google Map below shows the farm at center of screen- buffered by ~1km or so 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DmJmFk_lxNiX1dE685yAmr3Cxr8" width="640" height="480"></iframe>
 
-PS: for other views of farm/ context ''//(experimental -may not work in all browers)//'':
+PS: for other views of farm/ context ''//(experimental -beware, may not work in all browers)//'':
 
 * To observe the passage of seasons on the farm, how vegetation layer changes from January to June (2018), check out this [[VdLTimelapse]].
 * For a more historical view of the farm's context, there is also this 34-year Timelapse sequence, giving a birds-eye view of development during period of 1984-2018 : see GoogleEarthTimelapse .
