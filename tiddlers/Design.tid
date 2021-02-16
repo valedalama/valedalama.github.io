@@ -1,6 +1,9 @@
 created: 20200503165712167
-modified: 20200503170609813
+modified: 20210215174849513
 tags: Contents
 title: Design
 
-This section is to provide a place for design documents related to different zones / elements/ systems of the farm -e.g. MarketGardenDesign, SmartGreenhouse, PopupNursery, etc.
+This section is to provide a place for design documents related to different zones / elements/ systems of the farm.  Design artifacts are organized according to their lifecycle/form, i.e.:
+
+* Design Sketches: WhitehouseRennovation, WhitehouseRoseGarden, WhitehouseSensoryGarden, WashNpackStation
+* Design for Implementation: OmgPerennialPlantations (several)
