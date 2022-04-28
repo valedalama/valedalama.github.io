@@ -1,5 +1,4 @@
 # valedalama.github.io
-To be replaced with a website -a TiddlyWiki- shortly; stay tuned!
+This repo serves to host the current version of farm's wiki (see index.html file), along with previous versions now obsolete...
 
-ps: still working on the website -any day now :-)
-pps: tomorrow for sure -if not tonight, even!
+... But there's some important content in there (mainly in the 'tiddlers' file), which i am still wanting to link from the index.html file, once i find a good way to do it.
